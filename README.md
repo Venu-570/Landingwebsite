@@ -273,7 +273,7 @@ footer {
 
 <section id="contact" class="content-section">
         <h2>Contact</h2>
-        <p>If you'd like to collaborate or just say hi, feel free to reach out to me at <a href="mailto:venukanchiraju122@gmail.com">youremail@example.com</a>.</p>
+        <p>If you'd like to collaborate or just say hi, feel free to reach out to me at <a href="mailto:venukanchiraju122@gmail.com">venukanchiraju122@gmail.com</a>.</p>
     </section>
 
  <footer>
